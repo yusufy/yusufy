@@ -34,7 +34,3 @@ A lightweight productivity and writing-focused mobile application.
 - Firebase integration and backend services  
 - App Store & Play Store deployment  
 - Performance optimization and UX refinement
-
-## Collaboration
-
-Open to collaboration, product-focused projects, and well-scoped mobile development work.
