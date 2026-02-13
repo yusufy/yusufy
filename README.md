@@ -1,5 +1,3 @@
-# Yusuf Yıldırım
-
 ## About Me
 
 I am a software developer focused on **Flutter mobile development**.  
@@ -18,8 +16,10 @@ I enjoy working on real products, shipping to stores, and improving apps through
 
 ## Apps
 
-### Moodify
-A mood-based music experience focused on emotional context and personalization.
+### Moodify - AI Music
+**AI-powered mood analysis & music recommendation app.**
+
+Moodify lets you describe how you feel — by typing or speaking — and uses **Gemini** to analyze your mood, offer motivational insights, and instantly recommend matching playlists & songs on **Spotify** or **YouTube Music**.
 
 ### DocBrief
 An AI-powered document summarization and insight extraction app.
